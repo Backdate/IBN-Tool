@@ -1,10 +1,11 @@
-# Info IBN-Tool
+# IBN-Tool Info
+
+
+
 
 ![](./img/fullLogo.png)
 
 
-
-**german and english help is available**
 
 ***This prog is intended for commissioning Fanuc robots***
 
@@ -15,7 +16,7 @@ And that's why it's called **IBN-Tool** (**I**n**B**etrieb**N**ahme is the germa
 ![alt text](./img/IBN-Tool.JPG)
 
 **At app startup you have to double click the corresponding tab to (re)load!**
-   - ![alt text](img/InitialStart.gif)
+   - ![alt text](./img/InitialStart.gif)
 
 - This is an early, non-productive version of the software.
 It's meant to be a POC (proof of concept) demonstrator.
@@ -26,8 +27,8 @@ It's meant to be a POC (proof of concept) demonstrator.
 - There is no installer
 - Prog needs to be placed within a directory with write access to store the browsers cache files.
 - Start only one instance at a time (due to shared cache files)
-- closing of tabs does not work
-- no custom tabs (will be added as soon as possible)
+- ~~closing of tabs does not work~~
+- ~~no custom tabs (will be added as soon as possible)~~
 
 *The core components of the software are quite stable.
 DragAndDrop of tabs, the implementation of the browser engines and layout changes by the user work well.*
@@ -56,7 +57,7 @@ You are able to rearrange tabs like in any modern ide or browser.
 
 - **The FTP and file browser component will be replaced with native (async) ones**
 
-   - ![alt text](img/UploadFTP1.gif)
+   - ![alt text](./img/UploadFTP1.gif)
    - We will support different IDEs/ editors
 - the software should support you in your workflow, not dictate what you have to do
 
@@ -69,11 +70,11 @@ Please check integrated help to navigate to the webpage
 Most but not all of following features will be available in V1.0 (09/2025):
 - custom tab/ custom webpages
 - add native LS/Prog Viewer with customizeable highlighter
-   - ![alt text](img/native_Prog_viewer_1.gif)
-   - ![alt text](img/native_PR_viewer_1.gif)
+   - ![alt text](./img/native_Prog_viewer_1.gif)
+   - ![alt text](./img/native_PR_viewer_1.gif)
 
 - add native FTP/SFTP support
-   - ![alt text](img/native_FTP1.gif)
+   - ![alt text](./img/native_FTP1.gif)
 - save layouts and custom webpages
 - quick dev-component to view custom IO's,Regs, vars inside ONE panel
 - ping tool for network discovery
@@ -85,7 +86,11 @@ Most but not all of following features will be available in V1.0 (09/2025):
 - simple Markdown component
 
 ### Changelog
-- initial pre alpha release
+- second pre alpha release / 14.03.25
+   - user defined TAB
+   - close und open tabs
+   - performance optimization
+- initial pre alpha release / 06.03.25
 
 ---
 
