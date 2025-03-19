@@ -1,10 +1,8 @@
-# IBN-Tool Info
+# IBN_Tool Help
 
-
-
+**Version: 0.1.1.49**
 
 ![](./img/fullLogo.png)
-
 
 
 ***This prog is intended for commissioning Fanuc robots***
@@ -15,8 +13,24 @@ And that's why it's called **IBN-Tool** (**I**n**B**etrieb**N**ahme is the germa
 
 ![alt text](./img/IBN-Tool.JPG)
 
-**At app startup you have to double click the corresponding tab to (re)load!**
+- Connect to various robot screens
+- predefined and custom screens are easily accessable
    - ![alt text](./img/InitialStart.gif)
+   - **At app startup you have to double click the corresponding tab to (re)load!**
+
+- rearrange tabs
+- add tabs
+   - ![alt text](./img/IBN-Tool_Tabs.gif)
+
+- change UI/UX
+   - scale elements
+   - change colors
+   - ![alt text](./img/IBN-Tool_AppSettings.gif)
+
+
+
+---
+---
 
 - This is an early, non-productive version of the software.
 It's meant to be a POC (proof of concept) demonstrator.
@@ -43,6 +57,9 @@ The app uses/hosts two browser engines:
 - MSHTML (Internet Explorer)
    - view/use old ActiveX webpages like CGTP, ECHO and old iRVision !
 
+
+Create backups eaysily via FTP
+
 User can change main view to trible, double and other window layouts. On top of that **IBN_Tool** supports tabs to give user the most flexible way to work with a bunch of webpages.
 
 
@@ -61,14 +78,28 @@ You are able to rearrange tabs like in any modern ide or browser.
    - We will support different IDEs/ editors
 - the software should support you in your workflow, not dictate what you have to do
 
+### Bugs
+There is a bug when dragging an edge tab to a different tab group
+
+- DoubleClick the tab header to solve
+- ![alt text](./img/IBN-Tool_Bug_NoReload.gif)
+
 
 ### Updates
-Please check integrated help to navigate to the webpage
+Inside App-Settings click "APP Website"
+![alt text](./img/App_Settings_DoUpdate1.JPG)
+
+this will open your default browser and navigates to:
+
+- [https://backdate.github.io/](https://backdate.github.io/)
 
 ### Roadmap
 
 Most but not all of following features will be available in V1.0 (09/2025):
-- custom tab/ custom webpages
+
+- [internal] solve layout change bug
+- buttons to navigate bach/forward
+- parse commandline args, so that roboguide may start the app
 - add native LS/Prog Viewer with customizeable highlighter
    - ![alt text](./img/native_Prog_viewer_1.gif)
    - ![alt text](./img/native_PR_viewer_1.gif)
@@ -86,6 +117,13 @@ Most but not all of following features will be available in V1.0 (09/2025):
 - simple Markdown component
 
 ### Changelog
+- third pre alpha release / 19.03.25
+   - add:user defined TABs
+      - max 3x ieX
+      - max 3x edge
+   - update startup sequence
+   - add:change base IP address
+
 - second pre alpha release / 14.03.25
    - user defined TAB
    - close und open tabs
