@@ -1,6 +1,6 @@
 # IBN_Tool Help
 
-**Version: 0.1.1.49**
+**Version: 0.1.1.68**
 
 ![](./img/fullLogo.png)
 
@@ -27,7 +27,8 @@ And that's why it's called **IBN-Tool** (**I**n**B**etrieb**N**ahme is the germa
    - change colors
    - ![alt text](./img/IBN-Tool_AppSettings.gif)
 
-
+- switch layout
+   - ![alt text](img/Layout_Switching.PNG)
 
 ---
 ---
@@ -37,7 +38,7 @@ It's meant to be a POC (proof of concept) demonstrator.
 - Microsoft Edge WebView2 must be installed (WIN10 only)
    - https://developer.microsoft.com/de-de/microsoft-edge/webview2/?form=MA13LH
 - Some components will change massively over time.
-- For now prog will **only** connect to first **Roboguide** robot
+- ~~For now prog will only connect to first Roboguide robot~~
 - There is no installer
 - Prog needs to be placed within a directory with write access to store the browsers cache files.
 - Start only one instance at a time (due to shared cache files)
@@ -97,8 +98,8 @@ this will open your default browser and navigates to:
 
 Most but not all of following features will be available in V1.0 (09/2025):
 
-- [internal] solve layout change bug
-- buttons to navigate bach/forward
+- buttons to navigate back/forward
+   - --> use context menu or [ALT] - CURSOR-keys
 - parse commandline args, so that roboguide may start the app
 - add native LS/Prog Viewer with customizeable highlighter
    - ![alt text](./img/native_Prog_viewer_1.gif)
@@ -117,6 +118,11 @@ Most but not all of following features will be available in V1.0 (09/2025):
 - simple Markdown component
 
 ### Changelog
+- fourth pre alpha release // 24.03.25
+   - more predefined tabs
+   - switch layout menu bar
+   - auto save of last "config"
+
 - third pre alpha release / 19.03.25
    - add:user defined TABs
       - max 3x ieX
