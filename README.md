@@ -1,6 +1,6 @@
 # IBN_Tool Help
 
-**Version: 0.1.1.68**
+**Version: 0.1.1.70**
 
 ![](./img/fullLogo.png)
 
@@ -29,6 +29,11 @@ And that's why it's called **IBN-Tool** (**I**n**B**etrieb**N**ahme is the germa
 
 - switch layout
    - ![alt text](img/Layout_Switching.PNG)
+
+- start from Roboguide (as chrome.exe)
+   - copy and rename app to chrome.exe
+   - add the new "chrome path to roboguide
+      - RG V9 :Tools-Options-System
 
 ---
 ---
@@ -59,7 +64,7 @@ The app uses/hosts two browser engines:
    - view/use old ActiveX webpages like CGTP, ECHO and old iRVision !
 
 
-Create backups eaysily via FTP
+Create backups easily via FTP
 
 User can change main view to trible, double and other window layouts. On top of that **IBN_Tool** supports tabs to give user the most flexible way to work with a bunch of webpages.
 
@@ -100,14 +105,14 @@ Most but not all of following features will be available in V1.0 (09/2025):
 
 - buttons to navigate back/forward
    - --> use context menu or [ALT] - CURSOR-keys
-- parse commandline args, so that roboguide may start the app
+- ~~parse commandline args, so that roboguide may start the app~~
 - add native LS/Prog Viewer with customizeable highlighter
    - ![alt text](./img/native_Prog_viewer_1.gif)
    - ![alt text](./img/native_PR_viewer_1.gif)
 
 - add native FTP/SFTP support
    - ![alt text](./img/native_FTP1.gif)
-- save layouts and custom webpages
+- save ~~layouts and~~ custom webpages
 - quick dev-component to view custom IO's,Regs, vars inside ONE panel
 - ping tool for network discovery
    - e.g. view/embed other webpages
@@ -118,7 +123,12 @@ Most but not all of following features will be available in V1.0 (09/2025):
 - simple Markdown component
 
 ### Changelog
-- fourth pre alpha release // 24.03.25
+
+- fifth pre alpha release / 25.03.25
+   - bug fix ( new tab)
+   - read commandline arg from  roboguide when started as chrome.exe
+
+- fourth pre alpha release / 24.03.25
    - more predefined tabs
    - switch layout menu bar
    - auto save of last "config"
