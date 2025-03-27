@@ -55,6 +55,9 @@ DragAndDrop of tabs, the implementation of the browser engines and layout change
 
 However, many components and functions need to be tested and expanded.
 
+[download / test now](https://raw.githubusercontent.com/Backdate/IBN-Tool/main/IBN_Tool.7z)
+
+
 ### Features
 
 The app uses/hosts two browser engines:
@@ -100,6 +103,10 @@ this will open your default browser and navigates to:
 - [https://backdate.github.io/](https://backdate.github.io/)
 
 ### Roadmap
+
+**The next update is scheduled for mid-April 25** 
+
+
 
 Most but not all of following features will be available in V1.0 (09/2025):
 
