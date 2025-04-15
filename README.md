@@ -104,11 +104,12 @@ this will open your default browser and navigates to:
 
 ### Roadmap
 
-**The next update is scheduled for mid-April 25** 
+**The next update is scheduled for end of april 25**
+ - FTP/communication panel
+ -  a lot of internal refactor
 
 
-
-Most but not all of following features will be available in V1.0 (09/2025):
+**Most but not all of following features will be available in V1.0 (09/2025):**
 
 - buttons to navigate back/forward
    - --> use context menu or [ALT] - CURSOR-keys
@@ -130,6 +131,12 @@ Most but not all of following features will be available in V1.0 (09/2025):
 - simple Markdown component
 
 ### Changelog
+
+---
+**The next update is scheduled for end of april 25**
+ - FTP/communication panel
+ -  a lot of internal refactor
+---
 
 - fifth pre alpha release / 25.03.25
    - bug fix ( new tab)
