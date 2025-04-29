@@ -2,14 +2,14 @@
 
 **Version: 0.1.1.70**
 
-![alt text](img/ibn-tool-text.png)
-
 
 ***This prog is intended for commissioning Fanuc robots***
 
 And that's why it's called **IBN-Tool** (**I**n**B**etrieb**N**ahme is the german word for commissioning)
 
 ## Alpha Version
+
+![alt text](img/ibn-tool-text.png)
 
 ![alt text](./img/IBN-Tool.JPG)
 
