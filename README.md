@@ -2,7 +2,7 @@
 
 **Version: 0.1.1.70**
 
-![](./img/fullLogo.png)
+![Logo-with-text](./img/ibn-tool-text.png)
 
 
 ***This prog is intended for commissioning Fanuc robots***
@@ -104,9 +104,13 @@ this will open your default browser and navigates to:
 
 ### Roadmap
 
-**The next update is scheduled for end of april 25**
- - FTP/communication panel
- -  a lot of internal refactor
+**The next update is scheduled for end of may 25**
+- is somewhat delayed due to commissioning and:
+- (S)FTP/communication panel
+   - sftp/ssl lib(s) need attention
+- a lot of internal refactor
+- better Roboguide "integration"
+- new settings tab (add conncetions)
 
 
 **Most but not all of following features will be available in V1.0 (09/2025):**
@@ -133,9 +137,9 @@ this will open your default browser and navigates to:
 ### Changelog
 
 ---
-**The next update is scheduled for end of april 25**
- - FTP/communication panel
- -  a lot of internal refactor
+**The next update is scheduled for end of may 25**
+
+ - see roadmap
 ---
 
 - fifth pre alpha release / 25.03.25
