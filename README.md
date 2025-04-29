@@ -2,7 +2,7 @@
 
 **Version: 0.1.1.70**
 
-![Logo-with-text](./img/ibn-tool-text.png)
+![alt text](img/ibn-tool-text.png)
 
 
 ***This prog is intended for commissioning Fanuc robots***
