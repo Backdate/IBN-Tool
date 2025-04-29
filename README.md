@@ -9,8 +9,6 @@ And that's why it's called **IBN-Tool** (**I**n**B**etrieb**N**ahme is the germa
 
 ## Alpha Version
 
-![alt text](img/ibn-tool-text.png)
-
 ![alt text](./img/IBN-Tool.JPG)
 
 - Connect to various robot screens
