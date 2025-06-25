@@ -102,13 +102,14 @@ this will open your default browser and navigates to:
 
 ### Roadmap
 
-**The next update is scheduled for end of may 25**
-- is somewhat delayed due to commissioning and:
+**The next update is scheduled for end of july 25**
+ Somewhat delayed due to commissioning and:
+- better Roboguide V10 "integration"
 - (S)FTP/communication panel
    - sftp/ssl lib(s) need attention
 - a lot of internal refactor
-- better Roboguide "integration"
 - new settings tab (add conncetions)
+- installer testing
 
 
 **Most but not all of following features will be available in V1.0 (09/2025):**
@@ -135,7 +136,7 @@ this will open your default browser and navigates to:
 ### Changelog
 
 ---
-**The next update is scheduled for end of may 25**
+**The next update is scheduled for end of july 25**
 
  - see roadmap
 ---
