@@ -14,7 +14,7 @@ And that's why it's called **IBN-Tool** (**I**n**B**etrieb**N**ahme is the germa
 - Connect to various robot screens
 - predefined and custom screens are easily accessable
    - ![alt text](./img/InitialStart.gif)
-   - **At app startup you have to double click the corresponding tab to (re)load!**
+   - **At app startup you have to double click the corresponding tab to (re)load**
 
 - rearrange tabs
 - add tabs
