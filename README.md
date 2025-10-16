@@ -102,18 +102,25 @@ this will open your default browser and navigates to:
 
 ### Roadmap
 
-**The next update is scheduled for end of july 25**
- Somewhat delayed due to commissioning and:
+**The next major update is scheduled for end of 2025**
+
+**Most but not all of following features will be available in V1.0 (03/2026):**
+
+
+
+ Somewhat delayed due to commissioning and roadmap questions:
 - better Roboguide V10 "integration"
+   - with release of RG10.4(oct/2025) , we have defined our (desired) features:
+      - No direct integration
+      - Start via Web IO and Wen SOP or the robot's homepage rg-panel is should be implemented
+      - show roboguide help
+
 - (S)FTP/communication panel
    - sftp/ssl lib(s) need attention
 - a lot of internal refactor
-- new settings tab (add conncetions)
+- new settings tab (add connections)
 - installer testing
-
-
-**Most but not all of following features will be available in V1.0 (09/2025):**
-
+- single view mode
 - buttons to navigate back/forward
    - --> use context menu or [ALT] - CURSOR-keys
 - ~~parse commandline args, so that roboguide may start the app~~
@@ -136,7 +143,7 @@ this will open your default browser and navigates to:
 ### Changelog
 
 ---
-**The next update is scheduled for end of july 25**
+**The next major update is scheduled for end of 2025**
 
  - see roadmap
 ---
