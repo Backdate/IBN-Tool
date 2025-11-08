@@ -1,6 +1,6 @@
-# IBN_Tool Help
+# IBN_Tool Infos
 
-**Version: 0.1.1.99**
+**Version: 0.1.1.107**
 
 ![](./img/fullLogo.png)
 
@@ -105,6 +105,11 @@ this will open your default browser and navigates to:
 ---
 
 #### Minor changes
+- seveth  pre alpha release / 08.11.2025
+   - add: save and restore tabs
+   - bugfixing
+   - disable FTP button
+   - improved splitter
 
 - sixth pre alpha release / 29.10.25
   - bug fixes
