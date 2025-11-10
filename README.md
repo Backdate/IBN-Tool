@@ -105,7 +105,14 @@ this will open your default browser and navigates to:
 ---
 
 #### Minor changes
-- seveth  pre alpha release / 08.11.2025
+-  first alpha release / 10.11.2025
+   - refactor : AddTab dialog
+   - bugfixing
+   - improved tabs
+
+---
+
+- seventh  pre alpha release / 08.11.2025
    - add: save and restore tabs
    - bugfixing
    - disable FTP button
